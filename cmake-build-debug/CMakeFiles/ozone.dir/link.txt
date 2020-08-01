@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ozone.dir/main.cpp.o  -o ozone 
